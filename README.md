@@ -23,4 +23,4 @@ Homepage after logging in (Playlists and music player area)
 ![HOME_2](/art/HOME_2.png)
 
 Inside playlist view
-![PLAYLIST](/Art/PLAYLIST.png)
+![PLAYLIST](/art/PLAYLIST.png)
