@@ -13,6 +13,7 @@ Maşuk Music is a music uploading and listening platform I developed as an assig
   <li>and more...</li>
 </ul>
 
+<br>
 <h2>Pictures</h2>
 
 Homepage for users who are not logged in
